@@ -1,6 +1,20 @@
-# React + TypeScript + Vite
+# React Shadcn Boilerplate
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a boilerplate project for React applications using Shadcn UI components and various modern development tools.
+
+## Features
+
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Shadcn UI components
+- ESLint
+- Prettier
+- Husky
+- Lint-staged
+
+This template provides a minimal setup to get React working in Vite with Tailwind and Shadcn.
 
 Currently, two official plugins are available:
 
